@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "905846502441",
+    "project_id": "chucknorrisapi-9e63e",
+    "storage_bucket": "chucknorrisapi-9e63e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:905846502441:android:9b7f9fe38abac79a311838",
+        "android_client_info": {
+          "package_name": "com.example.chucknorrisapiapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "905846502441-5kikio97sj6512gdnh4vuegrmeinfnj9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD2t1237BbkiJaSZkulDYyOGuYC6lSZ1dQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "905846502441-5kikio97sj6512gdnh4vuegrmeinfnj9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:905846502441:android:bf87618debd6207b311838",
+        "android_client_info": {
+          "package_name": "com.example.chucknorrisapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "905846502441-5kikio97sj6512gdnh4vuegrmeinfnj9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD2t1237BbkiJaSZkulDYyOGuYC6lSZ1dQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "905846502441-5kikio97sj6512gdnh4vuegrmeinfnj9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
